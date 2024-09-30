@@ -1,2 +1,4 @@
 # Développement de ma lettre de motivation parcoursup en format site web
 Lors de ma terminale, dans le cadre de la phase Parcoursup, j'ai souhaité me démarquer des autres candidatures post-bac. Pour cela, j'ai développé ma lettre de motivation sous la forme d'un site web, en utilisant HTML et CSS avec Notepad++. Ce projet m'a permis d'apprendre à publier un site web tout en explorant différentes méthodes et outils. Cette approche originale a non seulement mis en valeur mes compétences, mais aussi ma motivation de manière impactante.
+
+**Attention :** Tout le code contenu dans ce dépôt est la propriété exclusive de BOISSERIE Estelle. Vous êtes libre de consulter et d'explorer le code, mais **vous n'êtes pas autorisé à le copier, le modifier, ou l'utiliser à des fins commerciales sans mon autorisation explicite**.
